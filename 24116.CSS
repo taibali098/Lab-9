@@ -1,0 +1,12 @@
+.first-div 
+{
+    width: 500px;
+    height: 100px;
+    background-color: lightblue; 
+    border-width: 3px;
+    border-color: darkblue; 
+    border-style: solid;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+}
